@@ -1,5 +1,7 @@
 # Telegram Bot API Package for Go
 
+[![GoDoc](https://godoc.org/github.com/adzil/telebot?status.svg)](https://godoc.org/github.com/adzil/telebot)
+
 Package telebot implements RPC method to Telegram Bot API with convenient high
 level polling method for getting updates.
 
